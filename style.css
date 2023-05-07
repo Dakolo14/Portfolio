@@ -561,6 +561,11 @@ header .navbar ul li a:hover{
     }
 
     .portfolio .box-container .box {
+        width: 100%;
+        height: auto;
+    }
+    
+    .portfolio .box-container a .box {
         width: 92%;
         height: auto;
     }
